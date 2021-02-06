@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- I am completing my final semester at BITS Pilani pursuing a B.E. in Computer Science.
+- Currently I'm dabbling with Competitive Programming. I practice mostly at [Leetcode](https://leetcode.com/siddhantrkhandelwal/), will be switching to [codeforces](https://codeforces.com/profile/ahfod) soon.
+- I will be joining [Samsung R&D Institute Bangalore](https://research.samsung.com/sri-b) as a Software Engineer after graduation.
+- I have worked at a fast-growing startup, and an MNC as a Software Engineer Intern.
+- Python, JavaScript, C++, Java are languages I code in, in order of preference.
+- I have projects in Web Development, Machine Learning. Pinned repositores below exemplify.
+- I am an avid reader, my [goodreads](https://www.goodreads.com/user/show/97892136-siddhant-khandelwal) profile.
+- Reach out to me [here](mailto:siddhantrkhandelwal@gmail.com) for collaboration.
