@@ -1,0 +1,12 @@
+---
+layout: page
+title: Scrapbook
+subtitle: ummmm......
+<!-- use-site-title: true -->
+---
+
+{% for item in site.scraps %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% endfor %}

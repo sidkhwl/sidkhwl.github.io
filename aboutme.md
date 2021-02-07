@@ -1,6 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+layout: page
+title: About me
+subtitle: Hi there 👋
 ---
 
 - I am completing my final semester at BITS Pilani pursuing a B.E. in Computer Science.
