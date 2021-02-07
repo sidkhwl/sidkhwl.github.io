@@ -2,7 +2,7 @@
 # --- General options --- #
 
 # Name of website
-title: Siddhant Khandelwal
+title: siddhant
 
 # Short description of your site
 description: CS Undergrad @ BITS Pilani
@@ -26,7 +26,7 @@ navbar-links:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
-  Posts: ""
+  Posts: "/"
   Resume: "resume"
   About Me: "aboutme"
   Books: "books"
