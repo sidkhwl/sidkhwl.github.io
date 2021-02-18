@@ -27,7 +27,7 @@ navbar-links:
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
   Posts: "/"
-  Resume: "resume"
+  Resume: "/docs/Resume.pdf"
   About Me: "aboutme"
   Books: "books"
 
