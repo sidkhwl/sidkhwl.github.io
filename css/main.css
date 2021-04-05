@@ -113,7 +113,7 @@ hr.small {
   ;
 }
 
-::selection {
+/* ::selection {
   color: white;
   text-shadow: none;
 
@@ -124,7 +124,7 @@ hr.small {
   }
 
   ;
-}
+} */
 
 img::selection {
   color: white;

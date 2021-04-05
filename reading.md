@@ -1,8 +1,24 @@
 ---
 layout: page
-title: Books
-subtitle: My recommendations
+title: Readings
+# subtitle: My recommendations
 ---
+
+This is a list of articles/books I have read and found interesting. Most of these come from the recommendations of people I follow on Twitter and elsewhere.
+
+If you resonate with the material collected here, do reach out to me [@Telegram](https://t.me/sidkhwl). Would love to discuss the content below. Also, it'd be great if you could recommend articles/books to read about Social Structures and Behavioural Science (Neuroscience & Economics).
+
+<i>I'll work on categorizing article entries with relevant tags.</i>
+
+## Articles
+
+- [Memos (sriramk)](https://sriramk.com/memos.html) - These fascinating memos were written for a target audience in a corporate setting capture how industries think, and how they shape the industry. Most of these articles are dated and the predictions therein might have not gone point by point, however, the main motive here is to understand how these people think.
+
+- [First 90 Days - Software Engineer Version (nirantk)](https://nirantk.com/writing/first-90-days-engineer-version/) - This definitive crisp guide for a newbie software engineer looks promising to me. Looking forward to following this at my first Job. Will update my thoughts about it here.
+
+## Books
+
+<i>Goodreads widget provides static code for lists created once, changes I make on Goodreads to this list (mostly additions) won't be reflected dynamically. Tapping on the title does take you to the Goodreads dynamic page. Will look for a fix for this.</i>
 
 <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
 <style type="text/css" media="screen">
