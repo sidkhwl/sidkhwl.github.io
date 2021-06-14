@@ -4,14 +4,14 @@ title: About me
 # subtitle: Siddhant Khandelwal
 ---
 
-I am completing my final semester at BITS Pilani pursuing a B.E. in Computer Science.
+I am a Software Engineer working @[Samsung Research Institute Bangalore](https://research.samsung.com/sri-b).
 
-Currently I'm dabbling with competitive programming. I practice mostly at [Leetcode](https://leetcode.com/sidkhwl/), will be switching to [Codeforces](https://codeforces.com/profile/ahfod) soon.
+I have completed a B.E. in Computer Science @[BITS Pilani](https://www.bits-pilani.ac.in/) in 2021.
 
-I will be joining [Samsung R&D Institute Bangalore](https://research.samsung.com/sri-b) as a Software Engineer after graduation.
+I have also worked at a fast-growing startup, and an MNC as a Software Engineer Intern.
 
-I have worked at a fast-growing startup, and an MNC as a Software Engineer Intern.
-Currently building a Computer vision based ITMS system inspired by the VisionZero ideology. Landing page under construction.
-Python, C++, JavaScript, Java are languages I code in, in order of preference.
+Python, JavaScript, C++, Java are languages I code in, in order of preference.
+
+I am an avid reader, my [goodreads](https://www.goodreads.com/user/show/97892136-siddhant-khandelwal) profile.
 
 I have projects in Web Development, Machine Learning. Pinned repositores [here](https://github.com/siddhantkhandelwal) exemplify.

@@ -14,6 +14,8 @@ If you resonate with the material collected here, do reach out to me [@Telegram]
 
 - [Memos (sriramk)](https://sriramk.com/memos.html) - These fascinating memos were written for a target audience in a corporate setting capture how industries think, and how they shape the industry. Most of these articles are dated and the predictions therein might have not gone point by point, however, the main motive here is to understand how these people think.
 
+- [Common Plots of Economic History (CF)](https://www.collaborativefund.com/blog/common-plots-of-economic-history/) - Finding common structures helps in retaining information. It also makes the subject matter interesting. The more a person is able to associate new knowledge with the existing ones, the better he/she is able to appreciate the underlying message. Probably that's why storytelling is an art. This article highlights the commonalities in the most influential events in global history. Slick read!
+
 - [First 90 Days - Software Engineer Version (nirantk)](https://nirantk.com/writing/first-90-days-engineer-version/) - This definitive crisp guide for a newbie software engineer looks promising to me. Looking forward to following this at my first Job. Will update my thoughts about it here.
 
 ## Books
