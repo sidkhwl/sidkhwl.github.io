@@ -16,7 +16,7 @@ If you resonate with the material collected here, do reach out to me [@Telegram]
 
 - [Common Plots of Economic History (CF)](https://www.collaborativefund.com/blog/common-plots-of-economic-history/) - Finding common structures helps in retaining information. It also makes the subject matter interesting. The more a person is able to associate new knowledge with the existing ones, the better he/she is able to appreciate the underlying message. Probably that's why storytelling is an art. This article highlights the commonalities in the most influential events in global history. Slick read!
 
-- [First 90 Days - Software Engineer Version (nirantk)](https://nirantk.com/writing/first-90-days-engineer-version/) - This definitive crisp guide for a newbie software engineer looks promising to me. Looking forward to following this at my first Job. Will update my thoughts about it here.
+- [How to Overcome Your Fear of Failure with The Bucky Method](https://medium.com/the-mission/please-schedule-8am-est-11-20-18-how-to-overcome-your-fear-of-failure-with-the-bucky-method-d3e6c47b0f64) - Everybody suggests you to read Thinking Fast and Slow, a few are actually able to finish it. This article presents a great application of the concepts explored in the book. So for those of you who started but never finished, maybe resume here :).
 
 ## Books
 
